@@ -15,5 +15,5 @@ lua require'plug-colorizer'
 " ----coc extension use ---
 " css emmet eslint git highlight html html-css-support json phpactor phpls prettier rome snippets sql sqlfluff svg tsserver vetur
 " default theme
-colorscheme tokyonight  
+colorscheme material  
 
